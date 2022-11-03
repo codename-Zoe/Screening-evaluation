@@ -1,0 +1,55 @@
+/* I am very sorry but I couldn't proceed this question. */
+
+.flex-container {
+  display: flex;
+}
+.row1 {
+  display: flex;
+  justify-content: center;
+}
+.row2 {
+  display: flex;
+}
+.row3 {
+  display: flex;
+}
+.flex-a {
+  background-color: rgba(200, 200, 200);
+  border: 5px solid;
+  padding: 20px;
+  font-size: 30px;
+  color: rgba(255, 255, 255);
+  text-align: left;
+}
+.flex-b {
+  background-color: rgba(200, 200, 200);
+  border: 5px solid;
+  padding: 20px;
+  font-size: 30px;
+  color: rgba(255, 255, 255);
+  text-align: left;
+}
+.flex-c {
+  background-color: rgba(200, 200, 200);
+  border: 5px solid;
+  padding: 20px;
+  font-size: 30px;
+  color: rgba(255, 255, 255);
+  text-align: left;
+}
+.flex-d {
+  background-color: rgba(200, 200, 200);
+  border: 5px solid;
+  padding: 20px;
+  font-size: 30px;
+  color: rgba(255, 255, 255);
+  text-align: left;
+}
+.flex-e {
+  background-color: rgba(200, 200, 200);
+  border: 5px solid;
+  padding: 20px;
+  font-size: 30px;
+  color: rgba(255, 255, 255);
+  text-align: left;
+}
